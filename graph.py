@@ -23,4 +23,14 @@ class Graph:
         neighbors = self.get_neighbors(node)
         best_neighbor = min(neighbors, key=lambda x: x[1]) #iterate over the list of neighbors and get the min cost 
         return best_neighbor
-  
+
+
+      def printGraph(self):
+        count = 0
+        for node in self.edges.keys():
+          print(f"Node: {node}")
+          for neighbor, cost in self.edges[node].items():
+            print(f"  Edge to {neighbor} with cost {cost}")
+          count += 1
+          if count == 5:
+            break  
