@@ -1,39 +1,39 @@
 ID,commune,facility,coordinates,services,Capacity
-1,Zeralda ,L'hepital Belkacemi Tayeb  ,"(36.69481286234817 , 2.8278013644181224)","""Dental Emergency,Gynecology Emergency, Pediatric Emergency,Medical-Surgical Emergency""",90
-2,Rahmania,Clinical Hemodialysis The Smart Renal Mahelma,"(36.680722270771014, 2.878642407765846)","""Renadial Hemodialysis""",42
-3,Rahmania,Clinical El Wiquaya,"(36.68119703997261, 2.8713975660083513)","""General Emergency,'Cardiac Emergency""",67
-4,Rahmania,Polyclinique SIDI ABDELLAH,"(36.69289423609818, 2.852464787369016)","""General Emergency,Gynecology Emergency, ORL, Pediatric Emergency, Dental Emergency, Gastrointestinal Emergency,Burn Emergency,Medical-Surgical Emergency""",40
-5,Rahmania,Dispensaire Zaatria,"(36.665546065835066, 2.865610607544431)","""General Emergency,Dental Emergency""",25
-6,Rahmania,Women's health clinic,"(36.6854438610203, 2.8812948839592973)","""Gynecology Emergency""",80
-7,Rahmania ,Cabinet ORL Dr Benallaoua,"(36.6875087328055, 2.879063286020413)","""ORL""",42
-8,Rahmania ,Room care Rahmania clinic,"(36.681568879489426, 2.90592093051146)","""General Emergency""",46
-9,Souidania ,Polyclinque de souidania,"(36.7021529249897, 2.9092713285583462)","""Gynecology Emergency, ORL,  Pediatric Emergency, Dental Emergency, General Emergency""",34
-10,Souidania ,Polyclinque de souidania 2,"(36.70475651548108, 2.909569495249885)","""General Emergency""",43
-11,Souidania ,Clinique de Pneumologie - Dr. MEBARKI,"(36.71521067287698, 2.9092030719149817)","""respiratory emergencies""",52
-12,Cheraga ,Clinique Chahrazed,"(36.77328650680487, 2.9497549301741093)","""ORL, Burn Emergency,Medical-Surgical Emergency,General Emergency,Pediatric Emergency,Dental Emergency""",31
-13,Cheraga ,Cabinet medical general,"(36.77558003262901, 2.965627675679136)","""General Emergency""",43
-14,Cheraga ,Polyclinic of Cheraga,"(36.76830850604806, 2.957616200642417)","""General Emergency""",71
-15,Cheraga ,Polyclinique les Dunes Cheraga ,"(36.7704924207475, 2.9592762049712023)","""General Emergency,Pediatric Emergency""",63
-16,Cheraga ,Clinique D'hemodialyse Ibtissama,"(36.76854915079953, 2.953667989076001)","""Renadial Hemodialysis""",69
-17,Ouled Fayet ,Polyclinique ouled fayet,"(36.7345706396605, 2.9494141993790306)","""General Emergency,Pediatric Emergency,Gynecology Emergency""",44
-18,Ouled Fayet ,Clinique Reefak El Feth,"(36.73854642912882, 2.950440728835655)","""General Emergency,Pediatric Emergency,Gynecology Emergency,Neurological Emergency,Gastrointestinal Emergency, Medical-Surgical Emergency""",34
-19,Ouled Fayet ,Polyclinique Plateau Ouled Fayet,"(36.719289322601234, 2.9375546626585525)","""General Emergency""",28
-20,El Achour ,Polyclinic El Achour Emergency H24,"(36.735793423773686, 2.9925919653560706)","""General Emergency, Pediatric Emergency, Dental Emergency""",34
-21,Draria ,Hospital Center S Draria ,"(36.7155672715264, 3.0008050930565857)","""General Emergency,Gynecology Emergency,ORL, Pediatric Emergency,Dental Emergency, Burn Emergency,Gastrointestinal Emergency,Medical-Surgical Emergency""",74
-22,Draria ,Clinique RAYA,"(36.71720552382278, 2.9978757669142553)","""Gynecology Emergency,Gastrointestinal Emergency,Medical-Surgical Emergency,Trauma center,Pediatric Emergency""",45
-23,Douera ,Hepital de Douera,"(36.6671124481307, 2.9427537809864504)","""Infectious Disease Emergency,Renadial Hemodialysis,Orthopedic Emergencies, Burn Emergency,Pediatric Emergency,Ophtalmology Emergency,Medical-Surgical Emergency,respiratory emergencies,Gynecology Emergency,Gastrointestinal Emergency,ORL,Dental Emergency""",147
-24,Douera ,Hospital Maternity,"(36.66702570706881, 2.9427808159589617)","""Gynecology Emergency""",87
-25,Douera ,Polyclinique Douera,"(36.669129150259174, 2.9396717941202466)","""General Emergency,Pediatric Emergency,Dental Emergency,Gynecology Emergency""",39
-26,Baba Hassen ,Centre de sante de Baba hassen,"(36.70027239412814, 2.970834232844522)","""General Emergency,respiratory emergencies""",26
-27,Baba Hassen ,Dispensaire Baba Hassen,"(36.70013476058424, 2.9814772375483027)","""General Emergency""",25
-28,Baba Hassen ,Polyclinique BABA HASSEN,"(36.69324313287262, 2.982346838655508)","""General Emergency, Pediatric Emergency,Dental Emergency,Burn Emergency,Infectious Disease Emergency""",40
-29,Baba Hassen ,CLINIQUE TALIA,"(36.69282086747457, 2.966723355823066)","""ORL""",47
-30,Khraicia,Polyclinique de Khraisia,"(36.69181951611881, 2.981820189609621)","""General Emergency, Pediatric Emergency,Dental Emergency,Burn Emergency,Infectious Disease Emergency""",57
-31,Khraicia,Dispensaire cite khraicia,"(36.67132024609062, 2.9807962406857)","""General Emergency""",35
-32,Khraicia,Dispensaire sidi boukhriss,"(36.670461980321456, 2.9766854906766236)","""General Emergency""",25
-33,Khraicia,Medical Clinic Anis Chiffa Khraicia Alger,"(36.687437048678696, 2.9787640335896035)","""General Emergency,respiratory emergencies""",53
-34,Saoula,Polyclinique Ibrahim Khaider Saoula,"(36.70350935088807, 3.028590536567301)","""General Emergency,Pediatric Emergency,Dental Emergency,Burn Emergency,Infectious Disease Emergency""",33
-35,Saoula,Dispensiare Saoula,"(36.70615604009432, 3.0316357343761284)","""General Emergency""",28
+1,Zeralda ,L'hepital Belkacemi Tayeb  ,"36.69481286234817 , 2.8278013644181224","""Dental Emergency,Gynecology Emergency, Pediatric Emergency,Medical-Surgical Emergency""",90
+2,Rahmania,Clinical Hemodialysis The Smart Renal Mahelma,"36.680722270771014, 2.878642407765846","""Renadial Hemodialysis""",42
+3,Rahmania,Clinical El Wiquaya,"36.68119703997261, 2.8713975660083513","""General Emergency,'Cardiac Emergency""",67
+4,Rahmania,Polyclinique SIDI ABDELLAH,"36.69289423609818, 2.852464787369016","""General Emergency,Gynecology Emergency, ORL, Pediatric Emergency, Dental Emergency, Gastrointestinal Emergency,Burn Emergency,Medical-Surgical Emergency""",40
+5,Rahmania,Dispensaire Zaatria,"36.665546065835066, 2.865610607544431","""General Emergency,Dental Emergency""",25
+6,Rahmania,Women's health clinic,"36.6854438610203, 2.8812948839592973","""Gynecology Emergency""",80
+7,Rahmania ,Cabinet ORL Dr Benallaoua,"36.6875087328055, 2.879063286020413","""ORL""",42
+8,Rahmania ,Room care Rahmania clinic,"36.681568879489426, 2.90592093051146","""General Emergency""",46
+9,Souidania ,Polyclinque de souidania,"36.7021529249897, 2.9092713285583462","""Gynecology Emergency, ORL,  Pediatric Emergency, Dental Emergency, General Emergency""",34
+10,Souidania ,Polyclinque de souidania 2,"36.70475651548108, 2.909569495249885","""General Emergency""",43
+11,Souidania ,Clinique de Pneumologie - Dr. MEBARKI,"36.71521067287698, 2.9092030719149817","""respiratory emergencies""",52
+12,Cheraga ,Clinique Chahrazed,"36.77328650680487, 2.9497549301741093","""ORL, Burn Emergency,Medical-Surgical Emergency,General Emergency,Pediatric Emergency,Dental Emergency""",31
+13,Cheraga ,Cabinet medical general,"36.77558003262901, 2.965627675679136","""General Emergency""",43
+14,Cheraga ,Polyclinic of Cheraga,"36.76830850604806, 2.957616200642417","""General Emergency""",71
+15,Cheraga ,Polyclinique les Dunes Cheraga ,"36.7704924207475, 2.9592762049712023","""General Emergency,Pediatric Emergency""",63
+16,Cheraga ,Clinique D'hemodialyse Ibtissama,"36.76854915079953, 2.953667989076001","""Renadial Hemodialysis""",69
+17,Ouled Fayet ,Polyclinique ouled fayet,"36.7345706396605, 2.9494141993790306","""General Emergency,Pediatric Emergency,Gynecology Emergency""",44
+18,Ouled Fayet ,Clinique Reefak El Feth,"36.73854642912882, 2.950440728835655","""General Emergency,Pediatric Emergency,Gynecology Emergency,Neurological Emergency,Gastrointestinal Emergency, Medical-Surgical Emergency""",34
+19,Ouled Fayet ,Polyclinique Plateau Ouled Fayet,"36.719289322601234, 2.9375546626585525","""General Emergency""",28
+20,El Achour ,Polyclinic El Achour Emergency H24,"36.735793423773686, 2.9925919653560706","""General Emergency, Pediatric Emergency, Dental Emergency""",34
+21,Draria ,Hospital Center S Draria ,"36.7155672715264, 3.0008050930565857","""General Emergency,Gynecology Emergency,ORL, Pediatric Emergency,Dental Emergency, Burn Emergency,Gastrointestinal Emergency,Medical-Surgical Emergency""",74
+22,Draria ,Clinique RAYA,"36.71720552382278, 2.9978757669142553","""Gynecology Emergency,Gastrointestinal Emergency,Medical-Surgical Emergency,Trauma center,Pediatric Emergency""",45
+23,Douera ,Hepital de Douera,"36.6671124481307, 2.9427537809864504","""Infectious Disease Emergency,Renadial Hemodialysis,Orthopedic Emergencies, Burn Emergency,Pediatric Emergency,Ophtalmology Emergency,Medical-Surgical Emergency,respiratory emergencies,Gynecology Emergency,Gastrointestinal Emergency,ORL,Dental Emergency""",147
+24,Douera ,Hospital Maternity,"36.66702570706881, 2.9427808159589617","""Gynecology Emergency""",87
+25,Douera ,Polyclinique Douera,"36.669129150259174, 2.9396717941202466","""General Emergency,Pediatric Emergency,Dental Emergency,Gynecology Emergency""",39
+26,Baba Hassen ,Centre de sante de Baba hassen,"36.70027239412814, 2.970834232844522","""General Emergency,respiratory emergencies""",26
+27,Baba Hassen ,Dispensaire Baba Hassen,"36.70013476058424, 2.9814772375483027","""General Emergency""",25
+28,Baba Hassen ,Polyclinique BABA HASSEN,"36.69324313287262, 2.982346838655508","""General Emergency, Pediatric Emergency,Dental Emergency,Burn Emergency,Infectious Disease Emergency""",40
+29,Baba Hassen ,CLINIQUE TALIA,"36.69282086747457, 2.966723355823066","""ORL""",47
+30,Khraicia,Polyclinique de Khraisia,"36.69181951611881, 2.981820189609621","""General Emergency, Pediatric Emergency,Dental Emergency,Burn Emergency,Infectious Disease Emergency""",57
+31,Khraicia,Dispensaire cite khraicia,"36.67132024609062, 2.9807962406857","""General Emergency""",35
+32,Khraicia,Dispensaire sidi boukhriss,"36.670461980321456, 2.9766854906766236","""General Emergency""",25
+33,Khraicia,Medical Clinic Anis Chiffa Khraicia Alger,"36.687437048678696, 2.9787640335896035","""General Emergency,respiratory emergencies""",53
+34,Saoula,Polyclinique Ibrahim Khaider Saoula,"36.70350935088807, 3.028590536567301","""General Emergency,Pediatric Emergency,Dental Emergency,Burn Emergency,Infectious Disease Emergency""",33
+35,Saoula,Dispensiare Saoula,"36.70615604009432, 3.0316357343761284","""General Emergency""",28
 36,Bchdjerrah,Centre de sante Tennis,"36.72053252331712, 3.1125846185819444","""General Emergency""",33
 37,Bchdjerrah,Centre medical Bell Air,"36.72650562986639, 3.118774207978901","""General Emergency""",30
 38,Bchdjerrah,POLYCLINIQUE DE BACHDJARAH,"36.72898674707783, 3.1037130505443264","""General Emergency,Pediatric Emergency,Cardiac Emergency""",36
@@ -49,10 +49,10 @@ ID,commune,facility,coordinates,services,Capacity
 48,Hussein dey,Clinique ORL Zemiti,"36.73688606098167, 3.096556486748493","""ORL""",48
 49,Hussein dey,Centre des consultations specialisees,"36.735705567280526, 3.1098845332984317","""General Emergency""",49
 50,Hussein dey,Clinique de nephrologie et d'hemodialyse,"36.735051288288936, 3.1060845314055077"," ""Renadial Hemodialysis""",81
-51,Hussein dey,CMD (Centre Medico Diagnostique) EL DEY,"36.73290168674007, 3.1125479792942863","""General Emergency,Pediatric Emergency,Cardiac Emergency,Ophtalmology Emergency,respiratory emergencies,Neurological Emergency""",58
+51,Hussein dey,CMD Centre Medico Diagnostique EL DEY,"36.73290168674007, 3.1125479792942863","""General Emergency,Pediatric Emergency,Cardiac Emergency,Ophtalmology Emergency,respiratory emergencies,Neurological Emergency""",58
 52,Hussein dey,Clinique de nephrologie-hemodialyse Dialamine,"36.73374337276836, 3.1014056523509588"," ""Renadial Hemodialysis""",79
 53,Hussein dey,Centre Medico Diagnostic Hussein Dey,"36.73268239308188, 3.1128866867484994","""General Emergency""",29
-54,Hussein dey,Centre Medicale La Residence (Urgences Et Ophtalmologie),"36.741484378569005, 3.0888966441120043","""General Emergency""",40
+54,Hussein dey,Centre Medicale La Residence Urgences Et Ophtalmologie,"36.741484378569005, 3.0888966441120043","""General Emergency""",40
 55,Hussein dey,Polyclinique La Residence,"36.74089969260916, 3.0916968701068424","""Pediatric Emergency,Cardiac Emergency,General Emergency,Gynecology Emergency""",36
 56,Hussein dey,Centre Medico Social ENNA,"36.74307977704993, 3.090958262095519","""General Emergency""",26
 57,Hussein dey,Centre hospitalo,"36.74043987476501, 3.0987553448967526","""Pediatric Emergency,Cardiac Emergency,General Emergency,Gynecology Emergency""",31
@@ -63,7 +63,7 @@ ID,commune,facility,coordinates,services,Capacity
 62,kouba,Clinique Parc Benomar diabetologie Endocrinologie,"36.72838836849437, 3.090158229519465","""Diabetology Emergency,Cardiac Emergency""",69
 63,kouba,"Clinique Medico Chirurgicale Ophtalmologie, Diabetologie","36.73659132034513, 3.0911667401271106","""Ophtalmology Emergency,Diabetology Emergency""",31
 64,kouba,EPH Bachir Mentouri kouba,"36.726621987581694, 3.089110679841124","""General Emergency,Pediatric Emergency,Cardiac Emergency""",68
-65,kouba,Hepital de Kouba (nouvelle Entree),"36.72592381065379, 3.0858761644642003"," ""ORL,Gynecology Emergency,Medical-Surgical Emergency""",75
+65,kouba,Hepital de Kouba nouvelle Entree,"36.72592381065379, 3.0858761644642003"," ""ORL,Gynecology Emergency,Medical-Surgical Emergency""",75
 66,kouba,Clinique EPSP B.O KOUBA,"36.73257494041537, 3.0843839779946083","""General Emergency""",77
 67,kouba,Clinique Sait De Kouba,"36.72808728828006, 3.081014419749805","""General Emergency,Pediatric Emergency,Gynecology Emergency""",40
 68,kouba,Polyclinique kouba,"36.73775267381433, 3.0891276066204547","""Diabetology Emergency,General Emergency""",75
@@ -97,7 +97,7 @@ ID,commune,facility,coordinates,services,Capacity
 96,dely brahim,Clinique Al Azhar,"36.765621057206694, 2.981125102769521","""Medical-Surgical Emergency,Ophtalmogy Emergency,ORL,Orthopedic Emergencies,Renadial Hemodialysis,Cardiac Emergency,Pediatric Emergency,Medical-Surgical Emergency,Diabetology Emergency,Gastrointestinal Emergency,Gynecology Emergency,Neurological Emergency""",37
 97,dely brahim,CNMS urgences cardiovasculaires,"36.77054865741099, 3.00119008907003","""Cardiac Emergency,General Emergency""",29
 98,dely brahim,Polyclinique Urgence H24 Dely Brahim,"36.75329577063006, 2.97709541530582","""General Emergency""",38
-99,dely brahim,Centre de soin (polyclinique de Dely Ibrahim),"36.75618402311874, 2.98997001880767","""General Emergency""",30
+99,dely brahim,Centre de soin polyclinique de Dely Ibrahim,"36.75618402311874, 2.98997001880767","""General Emergency""",30
 100,dely brahim,Hepital specialise cardiovasculaire,"36.76972985138192, 3.0001838709191433","""Cardiac Emergency""",50
 101,dely brahim,Hepital du coeur Alger,"36.76937514219812, 3.0003560412589874","""Cardiac Emergency""",74
 102,dely brahim,Hopital du cardiologue chevalley,"36.771781522261655, 3.0009568560890743","""Cardiac Emergency""",60
@@ -128,24 +128,24 @@ ID,commune,facility,coordinates,services,Capacity
 127,el mouradia,Diar Saada Clinique,"36.743653555829255, 3.060295237332297","""Renadial Hemodialysis,Ophtalmogy Emergency,Orthopedic Emergencies,Gynecology Emergency,Cardiac Emergency""",33
 128,el mouradia,Clinique El-bahdja,"36.745413036746356, 3.057742725126274","""ORL""",50
 129,el mouradia,Clinique EL BASSAR Dr NAIT-KACI Chirurgie Ophtalmologique,"36.74562660969759, 3.052892275401032","""Ophtalmogy Emergency""",38
-130,el mouradia,Clinique RAHMOUNI Djilali (ex Les Orangers ),"36.75518679528388, 3.042277477250758","""General Emergency""",140
+130,el mouradia,Clinique RAHMOUNI Djilali ex Les Orangers ,"36.75518679528388, 3.042277477250758","""General Emergency""",140
 131,el mouradia,Hopital Rahmoni EL JILAL,"36.755229774969216, 3.0385116559603373","""General Emergency,Pediatric Emergency,Renadial Hemodialysis,Ophtalmology Emergency""",80
 132,el mouradia,Yourarta`hopital,"36.75302453903135, 3.042734645278231","""General Emergency,Pediatric Emergency,Renadial Hemodialysis,Ophtalmology Emergency""",29
 133,el mouradia,Clinik Elqods,"36.74435433760173, 3.049702456922387","""General Emergency,Pediatric Emergency,Renadial Hemodialysis,Ophtalmology Emergency,Dental Emergency""",35
 134,el mouradia,Polyclinique St Claire,"36.74673852554204, 3.0566283132940257","""General Emergency,Cardiac Emergency,Diabetology Emergency,Pediatric Emergency,ORL""",32
 135,el mouradia,Dispensaire Ammar Guerni,"36.745547187436024, 3.0545763741744993","""General Emergency,Pediatric Emergency,Dental Emergency""",28
 136,el mouradia,Annexe chu Mustapha bacha,"36.746831575383986, 3.058787384127068","""General Emergency,Pediatric Emergency,Dental Emergency,Cardiac Emergency,Diabetology Emergency""",90
-137,Hydra,CMDTA (clinique Hartani),"36.73783633379967, 3.033178669430368","""Ophtalmology Emergency""",44
+137,Hydra,CMDTA clinique Hartani,"36.73783633379967, 3.033178669430368","""Ophtalmology Emergency""",44
 138,Hydra,Clinique El Qods,"36.746145452878956, 3.0453080252514315","""Gynecology Emergency""",45
 139,Hydra,Clinique Chifa,"36.74505963420121, 3.0244526570149577","""Gynecology Emergency,Cardiac Emergency""",26
 140,Hydra,Hepital Hydra,"36.74152820556649, 3.0390764344689942","""General Emergency,Cardiac Emergency,Diabetology Emergency,Pediatric Emergency,ORL,Dental Emergency""",112
 141,Hydra,CENTRE MEDICAL HYDRA,"36.748676862290424, 3.0362277677570306","""General Emergency,Pediatric Emergency,Dental Emergency""",43
-142,Hydra,Urgence clinic ( Governmental ),"36.74145830617721, 3.039683649273074","""General Emergency,Pediatric Emergency,Dental Emergency,Cardiac Emergency,Diabetology Emergency""",68
+142,Hydra,Urgence clinic  Governmental ,"36.74145830617721, 3.039683649273074","""General Emergency,Pediatric Emergency,Dental Emergency,Cardiac Emergency,Diabetology Emergency""",68
 143,Hydra,Clinique Hamouche,"36.75547763195238, 3.030311286822366","""Ophtalmology Emergency""",30
 144,Hydra,Centre medical paradou,"36.74405601640918, 3.0298388572141834","""General Emergency,Pediatric Emergency,Dental Emergency""",42
 145,Hydra,Clinique SARI Hydra,"36.7504754997544, 3.0391468265278907","""General Emergency,Pediatric Emergency,Dental Emergency,Cardiac Emergency,Diabetology Emergency""",32
 146,Hydra,CLINIQUE Dr NADJETTE BOUAZZA,"36.7465210228709, 3.042580053979831","""Gynecology Emergency""",46
-147,el mohammadia,Polyclinique Les Bananiers (belkhiter mohammed),"36.73110313839496, 3.1660720998814895","""Pediatric Emergency,General Emergency,Ophtalmology Emergency""",28
+147,el mohammadia,Polyclinique Les Bananiers belkhiter mohammed,"36.73110313839496, 3.1660720998814895","""Pediatric Emergency,General Emergency,Ophtalmology Emergency""",28
 148,el mohammadia,Polyclinique mohamadia ,"36.7442862807837, 3.133775334968277","""General Emergency,Pediatric Emergency,Dental Emergency,Cardiac Emergency,Diabetology Emergency""",66
 149,el mohammadia,Clinique les mandariniers,"36.744766566623596, 3.153639120453779","""ORL""",80
 150,el mohammadia,Polyclinique Belkheir ,"36.746623724213535, 3.1536071388864855","""General Emergency,Pediatric Emergency, Dental Emergency,Cardiac Emergency,Diabetology Emergency""",27
@@ -247,12 +247,12 @@ ID,commune,facility,coordinates,services,Capacity
 246,Ain Benian,Polyclinic L'ilot,"36.80380673727584, 2.9118150672249654","""General Emergency,Pediatric Emergency,Burn Center""",36
 247,Ain Benian,Polyclinique belle vue,"36.79111489670954, 2.911504063333077","""Pediatric Emergency""",37
 248,Alger-centre,CHU mustapha Bacha,"36.76252832203854, 3.05631753068968","""General Emergency, Medical-Surgical Emergency""",150
-249,bab El oued,CHU lamine debaghine (Ex maillot),"36.79498135304824, 3.0496378392272883","""General Emergency Gynecology Emergency, Pediatric Emergency,Trauma center, Psyciatric, Medical-Surgical Emergency""",145
+249,bab El oued,CHU lamine debaghine Ex maillot,"36.79498135304824, 3.0496378392272883","""General Emergency Gynecology Emergency, Pediatric Emergency,Trauma center, Psyciatric, Medical-Surgical Emergency""",145
 250,Bologhine,EPH D'IBN ZIRI DE BOLOGHINE,"36.81076802756216, 2.97883018465516","""General Emergency""",70
 251,bab El oued,EHS El Hadi FLICI ex Elkettar Alger ,"36.78644386937036, 3.052049663293176","""General Emergency, Infectious Disease Emergency Department,Medical-Surgical Emergency""",80
 252,El biar,EPH Djillali Belkhenchir El Biar Ex Birtraria,"36.773717197033704, 3.0399270232758","""General Emergency,Pediatric Emergency,Medical-Surgical Emergency""",101
 253,El harrach,CHU Salim Zemirli,"36.70354459475823, 3.1236504508597154","""General Emergency,Medical-Surgical Emergency""",121
-254,El harrach,El Harrach Hospital (Ex Belfort),"36.71653848211996, 3.137393618147282","""General Emergency, Gynecology Emergency Emergency, Pediatric Emergency""",142
+254,El harrach,El Harrach Hospital Ex Belfort,"36.71653848211996, 3.137393618147282","""General Emergency, Gynecology Emergency Emergency, Pediatric Emergency""",142
 255,Birkhadem,Clinique Aya,"36.70694940190866, 3.066407984655161","""General Emergency ,Gynecology Emergency Emergency, Pediatric Emergency,Trauma Center""",53
 256,Alger-centre,Clinique centrale des brules,"36.77234100650792, 3.056657737372443","""General Emergency,Burn Center""",37
 257,bab El oued,Clinique Ibrahim Gharafa ex Durando,"36.7924317585417, 3.05350858465516","""General Emergency,Gynecology Emergency Emergency""",47
