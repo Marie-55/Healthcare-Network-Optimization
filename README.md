@@ -1,4 +1,4 @@
-In order to enhance the efficiency of ambulance services and emergency medical responses in Algiers, Algeria,
+   In order to enhance the efficiency of ambulance services and emergency medical responses in Algiers, Algeria,
 our objective is to optimize ambulance routes, patient transfers, and overall emergency response times.
 Specifically, our focus is on determining the most optimal route for patients requiring hospital or clinic visits within Algiers.
 To achieve this, we utilized a detailed map of Algiers and gathered data on road intersections, which we represented as nodes in a graph.
