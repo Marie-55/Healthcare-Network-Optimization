@@ -1,3 +1,4 @@
+#divide the data of hospitals into 3 files (west, center , east ) to minimize search space
 import pandas as pd
 from shapely.geometry import Point, Polygon
 
