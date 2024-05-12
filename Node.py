@@ -2,34 +2,43 @@ from collections import deque
 
 
 class Node:
-    def __init__(self, state, coordinates, heuristic,parent=None, destination=None, cost=0):
+    def __init__(self,id, coordinates,name= "intersection"):
+        self.id = id
         self.coordinates = coordinates
-        self.heuristic = heuristic
-        self.state = state
-        self.parent = parent  # node
-        self.destination = destination
-        self.cost = cost  # (incremented with each newly expanded node)
-        if parent is None:  # root node
-            self.depth = 0  # level in the graph 0 for the root node
-        else:
-            self.depth = parent.depth + 1  # parent level + 1
+        self.name = name
+
+        # getters for the coordinates 
+    @property 
+    def long(self):
+        return self.coordinates[0]
+        
+    @property 
+    def lat(self):
+        return self.coordinates[1]
+        
 
     def __hash__(self):
-        if isinstance(self.state, list):
-            return hash(tuple(map(tuple, self.state)))
+        if isinstance(self.id, list):
+            return hash(tuple(map(tuple, self.id)))
         else:
-            return hash(self.state)
+            return hash(self.name)
 
     def __eq__(self, other):
         if isinstance(other, Node):
-            return other.state == self.state 
+            return other.coordinates == self.coordinates 
         else:
             return False
 
+    def Get_coord(self):
+        return self.coordinates
     
-
+    def get_id(self):
+        return self.id
+""" 
+Might be used somewhere else 
     def __gt__(self, other):
         return (self.cost + self.heuristic) > (other.cost + other.heuristic)
 
     def __lt__(self, other):
         return (self.cost + self.heuristic) < (other.cost + other.heuristic)
+ """
