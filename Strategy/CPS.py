@@ -1,7 +1,6 @@
 import math
 class CSP: 
-    def __init__(self, variables, Domains,constraints): 
-        self.variables = variables 
+    def __init__(self, Domains,constraints):  
         self.domains = Domains 
         self.constraints = constraints 
         self.solution = None
@@ -11,19 +10,19 @@ class CSP:
         return self.solution
     
     def constraint_propagation(self):
-        service,distance,capacity = self.constraints
-        hospitals = set()
+        service ,distance = self.constraints
+        hospitals = []
         for hospital in self.domains:
             services = hospital["service"] 
             if service in services:
-                hospitals.add(hospital)
+                hospitals.append(hospital)
         
         for hospital in hospitals:
-            if hospitals["capacity"] == 0:
+            if hospital["capacity"] == 0:
                 hospitals.remove(hospital)
 
         for hospital in hospitals:
-            if hospitals["distance"] > distance:
+            if hospital["distance"] > distance:
                 hospitals.remove(hospital)
         return hospitals
     
