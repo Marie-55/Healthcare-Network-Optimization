@@ -1,9 +1,8 @@
 from queue import PriorityQueue
-from Problem import Problem
 
 
-def ucs(Problem):
-    initial_state = Problem.initial_state
+def ucs(problem):
+    initial_state = problem.initial_state
     frontier = PriorityQueue()   #The frontier is a priority queue so we can get the node with the lowest cost
     frontier.put((0, initial_state))  #the cost of the initial state is zero
     explored = set()
@@ -16,7 +15,7 @@ def ucs(Problem):
         #get the node with the lowest cost from the priority queue
         cost, current_node=frontier.get()
         
-        if Problem.goal_test(current_node):
+        if problem.goal_test(current_node):
             path=[]
             #retrieve the path by climbing up the graph
             while current_node is not None:
@@ -30,14 +29,15 @@ def ucs(Problem):
         if current_node not in explored:
             explored.add(current_node)
             
-            for neighbor, neighbor_cost in Problem.expand_node(current_node):
+            for neighbor in problem.expand_node(current_node):
+                neighbor_id=neighbor['target']
                 #we calculate the total cost by adding the cost of neighbor node and the cost of its parent
-                neighbor_Total_cost = cost + neighbor_cost
+                neighbor_Total_cost = cost + neighbor['length']
                 #add the neighbor to the frontier only if it is not in the explored set
                 
-                if neighbor not in explored:
-                    frontier.put((neighbor_Total_cost,neighbor))
-                    parent[neighbor]=current_node
+                if neighbor_id not in explored:
+                    frontier.put((neighbor_Total_cost,neighbor_id))
+                    parent[neighbor_id]=current_node
         
     return []
         
