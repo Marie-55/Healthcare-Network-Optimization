@@ -24,3 +24,9 @@ We gathered the data about intersections of roads and edges between them from tu
 ## Problem Formulation 
 the graph is our  transitional model such
 the nodes  are the intersections of roads, and the edges are the roads between the intersections. Then, we save the graph in the format pkl , then we copied the object of graph and apply the search strategies on it.
+
+## Credit:
+HADJ MESSAOUD Maria
+BAZOULA Nouha
+ABDELI zahra
+BENBOUABDELLAH Nadia
